@@ -16,8 +16,8 @@ The main objective of this problem is to build a machine-learning model that can
 
 1. Data Description
 2. Models Used
-6. Results
-7. Conclusion
+3. Results
+4. License
 
 
 ## Data Description
